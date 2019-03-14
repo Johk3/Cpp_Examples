@@ -79,7 +79,7 @@ Emails are located in [Help](#help) ortherwise use Twitter or Discord.
 
 --- 
 
-#### Thank you for giving La_La_Composer a look :) 
+#### Thank you for giving Cpp_Examples a look :) 
 
 ---
 
