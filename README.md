@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/license-MIT-lightgray.svg) ![](https://img.shields.io/badge/version-1.1.5-yellow.svg) ![](https://img.shields.io/badge/build-passing-green.svg)
 
-> Boring CPP projects. 
+> A set of common CPP projects.
 
 
 ---
